@@ -1,14 +1,20 @@
-# co0b24bfe88900faff162465c
+# My Awesome Project
+This web app allows a user to log and keep track of the score during a pick-up game of basketball. 
 
-## About Scrimba
+![score](https://user-images.githubusercontent.com/97640502/190880980-766df03b-7be8-4a79-9394-a3fc86c4d7b8.jpg)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+**Link to project:** (https://pickuphoops-scoreboard.netlify.app/)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+![alt tag](https://pickuphoops-scoreboard.netlify.app/))
 
-Happy Coding!
-# hoops-scoreboard
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+
+## Lessons Learned:
+
+During this project, I reinforced the concepts of creating buttons in HTML and styling the layout using flexbox css. I was also able to get additional practice with using the .addEventListener method, assigning functions to the buttons, and displaying the results to the DOM. 
+
+
+
