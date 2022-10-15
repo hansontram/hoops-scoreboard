@@ -1,4 +1,4 @@
-# My Awesome Project
+# Pick-up Hoops Scoreboard
 This web app allows a user to log the score of a pick-up game of basketball by adding and resetting the scoreboard.  
 
 ![score](https://user-images.githubusercontent.com/97640502/190880980-766df03b-7be8-4a79-9394-a3fc86c4d7b8.jpg)
