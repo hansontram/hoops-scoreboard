@@ -23,7 +23,7 @@ document.getElementById('guest-three').addEventListener('click', threeGuest)
 document.getElementById('new-game-butt').addEventListener('click', newGame)
 
 
-// functions for all buttons
+// functions for all button
 function oneHome (){
     homeScore += 1
     document.getElementById("home-points-text").textContent = homeScore
