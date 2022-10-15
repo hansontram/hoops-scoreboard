@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    /* border: solid 1px rgb(203, 22, 146); */
+    height: 385px;
+    width: 575px;
+    background-color: rgb(27, 34, 74);
+}
+
+.home-score , .away-score{
+    align-items: flex-end;
+    /* border: solid 1px rgb(186, 189, 39) */
+    
+}
+.home-score{
+    margin-right: 8px;
+}
+.away-score{
+    margin-left: 8px;
+}
+/* h3 home and guest */
+
+h3 {
+    font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 90%;
+/* identical to box height, or 90% */
+text-align: center;
+color: #EEEEEE;
+}
+
+.display-home, .display-guest{
+    /* position: absolute; */
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+/* border: solid 1px blue; */
+background-color: black;
+font-family: 'Verdana';
+font-style: normal;
+
+}
+
+h3 {
+text-align: center;
+color: #EEEEEE;
+
+}
+
+#home-points-text, #guest-points-text { 
+text-align: center;
+ color: #F94F6D;
+ font-family: 'Cursed Timer ULiL';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 90px;
+ line-height: 127px;
+ margin-top: 13px;
+}
+
+button {
+height: 11%;
+width: 31.5%;
+background-color: rgb(27, 34, 74);
+border: solid 2px #EEEEEE;
+color: #EEEEEE;
+font-family: 'Cursed Timer ULiL';
+border-radius: 5px;
+margin-top: 30px;
+}
+
+#new-game-container{
+    /* border: 1px yellow solid ; */
+    display: flex;
+    justify-content: flex-end;
+    height: 40%;
+}
+#new-game-butt {
+    height: 11%;
+    width: 100%;
+    background-color: rgb(27, 34, 74);
+    border: solid 2px #EEEEEE;
+    color: #EEEEEE;
+    font-family: 'Cursed Timer ULiL';
+    border-radius: 5px;
+    margin-top: 266px;
+    
+}
